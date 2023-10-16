@@ -15,6 +15,7 @@ def dobro(n):
 
 
 def multiplica(a, b):
+    s=a*b
     return 3
 
 
