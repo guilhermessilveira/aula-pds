@@ -16,8 +16,7 @@ def dobro(n):
 
 def multiplica(a, b):
     s=a*b
-    return 3
-
+    return 3 
 
 def metade(x):
     return 0
